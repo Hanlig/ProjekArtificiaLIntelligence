@@ -1,4 +1,5 @@
-# data_intent.py
+# latihan_program.py
+
 training_sentences = [
     "halo",
     "hai",
@@ -15,7 +16,12 @@ training_sentences = [
     "makasih",
     "terima kasih",
     "bye",
-    "sampai jumpa"
+    "sampai jumpa",
+    "ada kue apa saja?",
+    "daftar kuenya apa aja?",
+    "boleh lihat menu kue?",
+    "apa saja yang dijual?",
+    "list kue"
 ]
 
 training_labels = [
@@ -34,5 +40,10 @@ training_labels = [
     "thanks",
     "thanks",
     "goodbye",
-    "goodbye"
+    "goodbye",
+    "menu",
+    "menu",
+    "menu",
+    "menu",
+    "menu"
 ]
