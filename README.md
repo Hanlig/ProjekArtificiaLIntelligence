@@ -79,3 +79,20 @@ c. Intent Recognition & Response Generation
 
     Intent: mengenali maksud dari input pengguna (seperti “pesan”, “tanya harga”, “ucapan salam”).
     Entity extraction: mengambil detail (seperti jenis kue, jumlah, tanggal).
+
+**3. Arah Pembuatan Chatbot NLP:**
+
+🔹 A. Bangun Sendiri dari Nol (lebih fleksibel, butuh lebih banyak coding)
+
+a. NLP preprocessing (tokenizing, stemming, vectorizing)
+b. Intent classification (ML model)
+c. Entity recognition
+d. Response handling
+
+
+🔹 B. Pakai Framework NLP (lebih cepat)
+
+a. Rasa (open-source chatbot framework)
+b. Dialogflow (Google)
+c. Botpress, Microsoft Bot Framework, dll.
+
